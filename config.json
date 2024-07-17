@@ -1,0 +1,9 @@
+{
+  "agencies": [
+    {
+      "agency_key": "marintransit",
+      "url": "https://marintransit.org/data/google_transit.zip"
+    }
+  ],
+  "showMap": false
+}
