@@ -10,6 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "gtfs-to-html": "^2.6.10"
+    "gtfs-to-html": "^2.10.8"
   }
 }
